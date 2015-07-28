@@ -12,3 +12,6 @@ qtcAddDeployment()
 HEADERS += \
     includes/massivecreate.h
 
+OTHER_FILES += \
+    todo.txt
+
